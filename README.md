@@ -1,6 +1,6 @@
-# mandarina2
+### mandarina2
+<!-- tarea sobre artefactos completada -->
 
-tarea sobre artefactos completada
 
 # **Artefactos de Scrum**
 
